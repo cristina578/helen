@@ -1,7 +1,35 @@
-header{
- background-color: black;
- color: black;
+.cabeçalho {
+      background-color: blue;
+      color: blue;
+      display: flex;
+      justify-content: space-around;
+      align-items: padding 24px 0;
 }
-.cabeçalho-imagem{
+.cabeçalho {
+      width: 20%
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    font-size: 36px;
+    margin: 0 16px;
+}
+.escola-imagem{
+    width: 25px;
+}
 
+.escola{
+    background-image: linear-gradient(blue,blue);
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+    font-size: 24px;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
