@@ -1,6 +1,6 @@
 .cabeçalho {
-      background-color: blue;
-      color: blue;
+      background-color: #424e61;
+      color: white;
       display: flex;
       justify-content: space-around;
       align-items: padding 24px 0;
@@ -18,8 +18,8 @@
 }
 
 .escola{
-    background-image: linear-gradient(blue,blue);
-    color: blue;
+    background-image: linear-gradient(#424e61,#16cff8);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
